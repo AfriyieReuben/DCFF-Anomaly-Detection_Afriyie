@@ -1,0 +1,1 @@
+python evaluate.py --model_path best_model.pth
